@@ -22,10 +22,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "mCentric\\LaravelFullcalendar\\ServiceProvider"
+                "mcentric\\LaravelFullcalendar\\ServiceProvider"
             ],
             "aliases": {
-                "Calendar": "mCentric\\LaravelFullcalendar\\Facades\\Calendar"
+                "Calendar": "mcentric\\LaravelFullcalendar\\Facades\\Calendar"
             }
         }
     },
