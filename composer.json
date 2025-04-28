@@ -1,5 +1,5 @@
 {
-    "name": "mCentric/laravel-fullcalendar",
+    "name": "mcentric/laravel-fullcalendar",
     "description": "Laravel helper for FullCalendar.io",
     "license": "MIT",
     "authors": [
@@ -22,10 +22,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "mcentric\\LaravelFullcalendar\\ServiceProvider"
+                "mCentric\\LaravelFullcalendar\\ServiceProvider"
             ],
             "aliases": {
-                "Calendar": "mcentric\\LaravelFullcalendar\\Facades\\Calendar"
+                "Calendar": "mCentric\\LaravelFullcalendar\\Facades\\Calendar"
             }
         }
     },

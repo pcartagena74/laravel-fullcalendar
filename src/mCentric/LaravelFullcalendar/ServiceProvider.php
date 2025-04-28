@@ -1,4 +1,4 @@
-<?php namespace MaddHatter\LaravelFullcalendar;
+<?php namespace mCentric\LaravelFullcalendar;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 
