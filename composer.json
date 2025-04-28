@@ -10,7 +10,7 @@
     ],
     "replace": {
         "maddhatter/laravel-fullcalendar":"dev-master"
-    }
+    },
     "require": {
 
     },
