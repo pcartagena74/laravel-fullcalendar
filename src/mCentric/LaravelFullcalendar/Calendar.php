@@ -4,7 +4,7 @@ namespace mCentric\LaravelFullcalendar;
 use ArrayAccess;
 use DateTime;
 use Illuminate\View\Factory;
-use MaddHatter\LaravelFullcalendar\SimpleEvent;
+use mCentric\LaravelFullcalendar\SimpleEvent;
 
 class Calendar
 {
